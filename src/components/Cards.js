@@ -23,7 +23,7 @@ function Cards() {
             />
             <CardItem
               src={img2}
-              text='Travel through the Islands of Bali in a Private Cruise'
+              text='Пещера Утробата се намира близо до село Илиница, в местността Тангардък кая, на около 12 км северозападно от Кърджали.'
               label='Пещера Утробата'
               path='/services'
             />
@@ -31,20 +31,20 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src={img3}
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+              text='Меандърът "Завоя" на р.Арда се намира края с.Стар Читак и с.Рибарци по посока Кърджали-Ардино.'
               label='Меандрите на р.Арда'
               path='/services'
             />
             <CardItem
               src={img4}
-              text='Experience Football on Top of the Himilayan Mountains'
+              text='Дяволският мост на р.Арда се намира на около 10 км северозападно от град Ардино, близо до с.Дядовци и недалеч от с.Латинка.'
               label='Дяволският Мост'
               path='/products'
             />
             <CardItem
               src={img8}
-              text='Ride through the Sahara Desert on a guided camel tour'
-              label='Момини Скали'
+              text='"Момина Скала" се намира в близост до гр.Пловдив, разположена е между селата Извор и Храбрино.'
+              label='Момина Скала'
               path='/sign-up'
             />
           </ul>
